@@ -1,0 +1,22 @@
+{
+  "name": "sadness",
+  "version": "1.0.0",
+  "description": "a bot for my sadness secretary",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OMightyElf/sadness.git"
+  },
+  "keywords": [
+    "chatbot"
+  ],
+  "author": "OMightyElf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OMightyElf/sadness/issues"
+  },
+  "homepage": "https://github.com/OMightyElf/sadness#readme"
+}
